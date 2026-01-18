@@ -16,7 +16,6 @@ A production-ready, security-focused architecture demonstrating how Claude acts 
 - [Policy Enforcement](#policy-enforcement)
 - [Audit & Compliance](#audit--compliance)
 - [Architecture Diagrams](#architecture-diagrams)
-- [Implementation Guide](#implementation-guide)
 
 ---
 
