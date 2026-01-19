@@ -1,0 +1,17 @@
+# Cryptographic Policies
+
+minimum_key_sizes:
+  rsa: 2048
+  ecdsa: 256
+
+maximum_validity_days: 365
+
+allowed_algorithms:
+  - rsa
+  - ecdsa
+
+forbidden_algorithms:
+  - dsa
+  - md5
+
+enforcement_mode: strict

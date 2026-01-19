@@ -1,0 +1,28 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Output files
+output/keys/*.pem
+output/csrs/*.csr
+output/certs/*.crt
+audit_log.json
+
+!output/keys/.gitkeep
+!output/csrs/.gitkeep
+!output/certs/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
